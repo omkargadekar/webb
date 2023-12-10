@@ -1,0 +1,825 @@
+   <section class="portfolio portoflio-one ptb-120">
+      <div class="container">
+        <div class="row section-title">
+          <div class="col-md-5">
+            <h2>Recently Solved</h2>
+            <h3>Featured Projects</h3>
+          </div>
+
+          <div class="col-md-5">
+            <p class="p-title-section">
+              Our Strategies At Work Are The Means By Which To Achieve The
+              Desired Goals, And Achieve Your Goals And Dreams Here
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="owl-carousel case-one">
+          <!-- New Item -->
+          <div class="case-item">
+            <div class="owl-item">
+              <div class="img-case">
+                <!-- Image OF Case -->
+                <img src="http://placehold.it/600x550" alt="case" />
+
+                <div class="overlay-case">
+                  <div class="inner-overlay">
+                    <!-- Text OF Case -->
+                    <div class="case-study-text">
+                      <div class="links-case">
+                        <div class="link-case">
+                          <a href="case-study-single.html"
+                            ><i class="fas fa-link"></i
+                          ></a>
+                        </div>
+
+                        <div class="zoom-case">
+                          <a href="http://placehold.it/600x550"
+                            ><i class="fas fa-search-plus"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="footer-case">
+                <div class="tag-case">Mechanics robots</div>
+                <h5>
+                  <a href="case-study-single.html">
+                    Mechanics of mechanical robots in major states
+                  </a>
+                </h5>
+              </div>
+            </div>
+          </div>
+
+          <!-- New Item -->
+          <div class="case-item">
+            <div class="owl-item">
+              <div class="img-case">
+                <!-- Image OF Case -->
+                <img src="http://placehold.it/600x550" alt="case" />
+
+                <div class="overlay-case">
+                  <div class="inner-overlay">
+                    <!-- Text OF Case -->
+                    <div class="case-study-text">
+                      <div class="links-case">
+                        <div class="link-case">
+                          <a href="case-study-single.html"
+                            ><i class="fas fa-link"></i
+                          ></a>
+                        </div>
+
+                        <div class="zoom-case">
+                          <a href="http://placehold.it/600x550"
+                            ><i class="fas fa-search-plus"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="footer-case">
+                <div class="tag-case">gas oil</div>
+                <h5>
+                  <a href="case-study-single.html">
+                    Extract oil and gas from the large city
+                  </a>
+                </h5>
+              </div>
+            </div>
+          </div>
+
+          <!-- New Item -->
+          <div class="case-item">
+            <div class="owl-item">
+              <div class="img-case">
+                <!-- Image OF Case -->
+                <img src="http://placehold.it/600x550" alt="case" />
+
+                <div class="overlay-case">
+                  <div class="inner-overlay">
+                    <!-- Text OF Case -->
+                    <div class="case-study-text">
+                      <div class="links-case">
+                        <div class="link-case">
+                          <a href="case-study-single.html"
+                            ><i class="fas fa-link"></i
+                          ></a>
+                        </div>
+
+                        <div class="zoom-case">
+                          <a href="http://placehold.it/600x550"
+                            ><i class="fas fa-search-plus"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="footer-case">
+                <div class="tag-case">engineers Factory</div>
+                <h5>
+                  <a href="case-study-single.html">
+                    Training engineers on the manufacture of heavy products
+                  </a>
+                </h5>
+              </div>
+            </div>
+          </div>
+
+          <!-- New Item -->
+          <div class="case-item">
+            <div class="owl-item">
+              <div class="img-case">
+                <!-- Image OF Case -->
+                <img src="http://placehold.it/600x550" alt="case" />
+
+                <div class="overlay-case">
+                  <div class="inner-overlay">
+                    <!-- Text OF Case -->
+                    <div class="case-study-text">
+                      <div class="links-case">
+                        <div class="link-case">
+                          <a href="case-study-single.html"
+                            ><i class="fas fa-link"></i
+                          ></a>
+                        </div>
+
+                        <div class="zoom-case">
+                          <a href="http://placehold.it/600x550"
+                            ><i class="fas fa-search-plus"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="footer-case">
+                <div class="tag-case">Factory Indusrial</div>
+                <h5>
+                  <a href="case-study-single.html">
+                    Automated control industry for control of companies
+                  </a>
+                </h5>
+              </div>
+            </div>
+          </div>
+
+          <!-- New Item -->
+          <div class="case-item">
+            <div class="owl-item">
+              <div class="img-case">
+                <!-- Image OF Case -->
+                <img src="http://placehold.it/600x550" alt="case" />
+
+                <div class="overlay-case">
+                  <div class="inner-overlay">
+                    <!-- Text OF Case -->
+                    <div class="case-study-text">
+                      <div class="links-case">
+                        <div class="link-case">
+                          <a href="case-study-single.html"
+                            ><i class="fas fa-link"></i
+                          ></a>
+                        </div>
+
+                        <div class="zoom-case">
+                          <a href="http://placehold.it/600x550"
+                            ><i class="fas fa-search-plus"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="footer-case">
+                <div class="tag-case">Energy electrical</div>
+                <h5>
+                  <a href="case-study-single.html">
+                    Wind power generation in America</a
+                  >
+                </h5>
+              </div>
+            </div>
+          </div>
+
+          <!-- New Item -->
+          <div class="case-item">
+            <div class="owl-item">
+              <div class="img-case">
+                <!-- Image OF Case -->
+                <img src="http://placehold.it/600x550" alt="case" />
+
+                <div class="overlay-case">
+                  <div class="inner-overlay">
+                    <!-- Text OF Case -->
+                    <div class="case-study-text">
+                      <div class="links-case">
+                        <div class="link-case">
+                          <a href="case-study-single.html"
+                            ><i class="fas fa-link"></i
+                          ></a>
+                        </div>
+
+                        <div class="zoom-case">
+                          <a href="http://placehold.it/600x550"
+                            ><i class="fas fa-search-plus"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="footer-case">
+                <div class="tag-case">electrical Energy</div>
+                <h5>
+                  <a href="case-study-single.html">
+                    innovative electrothermal energy storage system
+                  </a>
+                </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+
+
+
+    <ul class="sub-menu">
+        <li class="has-dropdown-two">
+          <a href="page-about-us.html">
+            Company
+            <span class="fas fa-angle-right"></span>
+          </a>
+
+          <ul class="sub-menu-two">
+            <li><a href="about-us.html">About Us</a></li>
+            <li>
+              <a href="why-choose-us.html">Why Choose Us</a>
+            </li>
+            <li><a href="work-with-us.html">careers</a></li>
+            <li><a href="our-clients.html">Our Clients</a></li>
+            <li><a href="faq.html">Help & FAQs</a></li>
+          </ul>
+        </li>
+
+        <li><a href="our-team.html">Our team</a></li>
+        <li><a href="our-pricing.html">Pricing & plans</a></li>
+        <li><a href="our-gallery.html">Our Gallery</a></li>
+        <li><a href="error.html">404 page</a></li>
+        <li><a href="request-quote.html">Request Quote</a></li>
+      </ul>
+
+
+
+
+
+
+
+
+      <li class="nav-item has-dropdown">
+        <a href="#" class="nav-link">
+          Projects
+          <span class="icon-down icon-down-one">
+            <i class="fas fa-angle-down"></i>
+          </span>
+        </a>
+
+        <ul class="sub-menu">
+          <li><a href="case-study-one.html">Project One</a></li>
+          <li><a href="case-study-two.html">Project Two</a></li>
+          <li>
+            <a href="case-study-three.html">Project Three</a>
+          </li>
+          <li>
+            <a href="case-study-single.html">Single Project</a>
+          </li>
+        </ul>
+      </li>
+
+      <li class="nav-item has-dropdown">
+        <a href="#" class="nav-link">
+          News
+          <span class="icon-down icon-down-one">
+            <i class="fas fa-angle-down"></i>
+          </span>
+        </a>
+
+        <ul class="sub-menu">
+          <li><a href="blog.html">News List</a></li>
+          <li><a href="blog-grid.html">News Grid</a></li>
+          <li><a href="blog-single.html">News Details</a></li>
+        </ul>
+      </li>
+
+      <li class="nav-item has-dropdown">
+        <a href="#" class="nav-link">
+          Shop
+          <span class="icon-down icon-down-one">
+            <i class="fas fa-angle-down"></i>
+          </span>
+        </a>
+
+        <ul class="sub-menu">
+          <li><a href="shop.html">Shop</a></li>
+          <li><a href="shop-cart.html">cart</a></li>
+          <li><a href="shop-cart.html">Checkout</a></li>
+          <li><a href="shop-single.html">Single Shop</a></li>
+          <li><a href="shop-my-account.html">My Account</a></li>
+          <li>
+            <a href="shop-loss-password.html">forget password</a>
+          </li>
+        </ul>
+      </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <section id="blog" class="blog pt-120 pb-90">
+        <div class="container">
+            
+            
+            <div class="row section-title"> 
+    
+                <div class="col-md-5">
+                    <h2>News Feeds </h2>
+                    <h3> Our Recent Posts</h3>   
+                </div>
+                
+                <div class="col-md-5">
+                    <p class="p-title-section">Our Strategies At Work Are The Means By Which To Achieve The Desired Goals, And Achieve Your Goals And Dreams Here</p>   
+                </div>
+                
+                
+            </div>
+    
+            
+            <div class="row">
+                
+                <!-- New Item -->
+                <div class="col-lg-4 col-sm-6">
+                    <div class="blog-item">
+                        <!-- Blog Image -->
+                        <div class="blog-img">
+                            <a href="blog.html"><img src="http://placehold.it/680x400" alt="blog"></a>
+    
+                        </div>
+                        <!-- Blog info -->
+                        <div class="blog-info">
+                            
+                            <ul class="date">
+                                <li>25 NOV 19 </li>
+                                <li><a href="#">Factory</a></li>
+                             </ul>
+                            
+                            
+                            <div class="title-post">
+                                
+                                <a href="blog.html"><h5>The future of factories in the coming years</h5></a>
+                            </div>
+    
+                            <div class="post-text">
+                                <p>Lorem ipsum dolor consectetur adipisicing elit do eiusm incididunt a labore et dolore magna consectetur adipisicing elit...</p>
+                            </div>
+                            
+                             <a href="blog.html" class="btn-read-more">
+                                <div class="text-btn">Read More</div>
+                                <i class="fas fa-long-arrow-alt-right"></i>
+                            </a>
+                            
+                        </div>
+    
+                    </div>
+                </div>
+                
+                
+    
+                <!-- New Item -->
+                <div class="col-lg-4 col-sm-6">
+                    <div class="blog-item">
+                        <!-- Blog Image -->
+                        <div class="blog-img">
+                            <a href="blog.html"><img src="http://placehold.it/680x400" alt="blog"></a>
+    
+                        </div>
+                        <!-- Blog info -->
+                        <div class="blog-info">
+                            
+                            <ul class="date">
+                                <li>25 NOV 19 </li>
+                                <li><a href="#">Energy</a></li>
+                             </ul>
+                            
+                            
+                            <div class="title-post">
+                                
+                                <a href="blog.html"><h5>The factors that countries create are energy</h5></a>
+                            </div>
+    
+                            <div class="post-text">
+                                <p>Lorem ipsum dolor consectetur adipisicing elit do eiusm incididunt a labore et dolore magna consectetur adipisicing elit...</p>
+                            </div>
+                            
+                            <a href="blog.html" class="btn-read-more">
+                                <div class="text-btn">Read More</div>
+                                <i class="fas fa-long-arrow-alt-right"></i>
+                            </a>
+                            
+                        </div>
+    
+                    </div>
+                </div>
+                
+                <!-- New Item -->
+                <div class="col-lg-4 col-sm-6">
+                    <div class="blog-item">
+                        <!-- Blog Image -->
+                        <div class="blog-img">
+                            <a href="blog.html"><img src="http://placehold.it/680x400" alt="blog"></a>
+    
+                        </div>
+                        <!-- Blog info -->
+                        <div class="blog-info">
+                            
+                            <ul class="date">
+                                <li>25 NOV 19 </li>
+                                <li><a href="#">Industry</a></li>
+                             </ul>
+                            
+                            
+                            <div class="title-post">
+                                
+                                <a href="blog.html"><h5>Industry is a job opportunity for everyone</h5></a>
+                            </div>
+    
+                            <div class="post-text">
+                                <p>Lorem ipsum dolor consectetur adipisicing elit do eiusm incididunt a labore et dolore magna consectetur adipisicing elit...</p>
+                                
+                            </div>
+                            
+                            
+                            <a href="blog.html" class="btn-read-more">
+                                <div class="text-btn">Read More</div>
+                                <i class="fas fa-long-arrow-alt-right"></i>
+                            </a>
+                            
+                            
+                        </div>
+    
+                    </div>
+                </div>
+                
+    
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+    <section class="portfolio portoflio-one pb-120 pt-220">
+      <div class="container">
+          
+          <div class="row section-title"> 
+  
+              <div class="col-md-5">
+                  <h2>Recently Solved  </h2>  
+                  <h3>Featured Projects </h3>    
+              </div>
+              
+              <div class="col-md-5">
+                  <p class="p-title-section">Our Strategies At Work Are The Means By Which To Achieve The Desired Goals, And Achieve Your Goals And Dreams Here</p>   
+              </div>
+              
+              
+          </div>
+          
+          
+    
+       </div>   
+          
+          <div class="container">
+              <div class="owl-carousel case-one">
+                  
+                  
+                  <!-- New Item -->
+                  <div class="case-item">
+                      <div class="owl-item"> 
+                          <div class="img-case">
+                              
+                              <!-- Image OF Case -->
+                              <img src="http://placehold.it/600x550" alt="case">
+                              
+                              <div class="overlay-case">
+                                  <div class="inner-overlay">
+                                      <!-- Text OF Case -->
+                                      <div class="case-study-text">
+                                          
+                                          <div class="links-case">
+                                              <div class="link-case">
+                                                  <a href="case-study-single.html"><i class="fas fa-link"></i></a>
+                                              </div>
+                                              
+                                              <div class="zoom-case">
+                                              <a href="http://placehold.it/600x550"><i class="fas fa-search-plus"></i></a>
+                                              </div>
+                                          </div>
+                                          
+                                          
+                                      </div> 
+                                  </div>
+                                  
+                              </div>
+                          </div>
+                          <div class="footer-case">
+                              <div class="tag-case">  Mechanics robots </div>
+                              <h5> <a href="case-study-single.html"> Mechanics of mechanical robots in major states </a> </h5>
+                   
+                          </div>
+                      </div>
+                  </div>
+                  
+                  
+                  
+                  <!-- New Item -->
+                  <div class="case-item">
+                      <div class="owl-item"> 
+                          <div class="img-case">
+                              
+                              <!-- Image OF Case -->
+                              <img src="http://placehold.it/600x550" alt="case">
+                              
+                              <div class="overlay-case">
+                                  <div class="inner-overlay">
+                                      <!-- Text OF Case -->
+                                      <div class="case-study-text"> 
+                                          
+                                          <div class="links-case">
+                                              <div class="link-case">
+                                                  <a href="case-study-single.html"><i class="fas fa-link"></i></a>
+                                              </div>
+                                              
+                                              <div class="zoom-case">
+                                              <a href="http://placehold.it/600x550"><i class="fas fa-search-plus"></i></a>
+                                              </div>
+                                          </div>
+                                          
+  
+                                      </div> 
+                                  </div>
+                                  
+                              </div>
+                              
+  
+                              
+                          </div>
+  
+                          <div class="footer-case">
+                              <div class="tag-case"> gas oil  </div>
+                              <h5> <a href="case-study-single.html">  Extract oil and gas from the large city </a> </h5>
+                    
+          
+                          </div>
+                          
+                          
+                      </div>
+                  </div>
+                  
+                  
+                  <!-- New Item -->
+                  <div class="case-item">
+                      <div class="owl-item"> 
+                          <div class="img-case">
+                              
+                              <!-- Image OF Case -->
+                              <img src="http://placehold.it/600x550" alt="case">
+                              
+                               <div class="overlay-case">
+                                  <div class="inner-overlay">
+                                      <!-- Text OF Case -->
+                                      <div class="case-study-text"> 
+                                          
+                                          <div class="links-case">
+                                              <div class="link-case">
+                                                  <a href="case-study-single.html"><i class="fas fa-link"></i></a>
+                                              </div>
+                                              
+                                              <div class="zoom-case">
+                                              <a href="http://placehold.it/600x550"><i class="fas fa-search-plus"></i></a>
+                                              </div>
+                                          </div>
+                                          
+  
+                                      </div> 
+                                  </div>
+                                  
+                              </div>
+                              
+                              
+           
+                          </div>
+  
+                          
+                          <div class="footer-case">
+                              <div class="tag-case">  engineers Factory  </div>
+                              <h5> <a href="case-study-single.html"> Training engineers on the manufacture of heavy products </a> </h5>
+                  
+              
+                          </div>
+                          
+                      </div>
+                  </div>
+                  
+                  
+                  
+                  
+                  <!-- New Item -->
+                  <div class="case-item">
+                      <div class="owl-item"> 
+                          <div class="img-case">
+                              
+                              <!-- Image OF Case -->
+                              <img src="http://placehold.it/600x550" alt="case">
+                              
+      
+                              
+                              <div class="overlay-case">
+                                  <div class="inner-overlay">
+                                      <!-- Text OF Case -->
+                                      <div class="case-study-text"> 
+                                          
+                                          <div class="links-case">
+                                              <div class="link-case">
+                                                  <a href="case-study-single.html"><i class="fas fa-link"></i></a>
+                                              </div>
+                                              
+                                              <div class="zoom-case">
+                                              <a href="http://placehold.it/600x550"><i class="fas fa-search-plus"></i></a>
+                                              </div>
+                                          </div>
+                                          
+                                      </div> 
+                                  </div>
+                                  
+                              </div>
+                              
+                              
+              
+                              
+                          </div>
+                          
+                          
+                          <div class="footer-case">
+                              <div class="tag-case">   Factory Indusrial  </div>
+                              <h5> <a href="case-study-single.html">  Automated control industry for control of companies </a> </h5>
+             
+                              
+                  
+                          </div>
+                          
+                          
+                      </div>
+                  </div>
+                  
+                  
+                  <!-- New Item -->
+                  <div class="case-item">
+                      <div class="owl-item"> 
+                          <div class="img-case">
+                              
+                              <!-- Image OF Case -->
+                              <img src="http://placehold.it/600x550" alt="case">
+                              
+                              
+                              <div class="overlay-case">
+                                  <div class="inner-overlay">
+                                      <!-- Text OF Case -->
+                                      <div class="case-study-text"> 
+                                          
+                                          <div class="links-case">
+                                              <div class="link-case">
+                                                  <a href="case-study-single.html"><i class="fas fa-link"></i></a>
+                                              </div>
+                                              
+                                              <div class="zoom-case">
+                                              <a href="http://placehold.it/600x550"><i class="fas fa-search-plus"></i></a>
+                                              </div>
+                                          </div>
+                                          
+                                      </div> 
+                                  </div>
+                                  
+                              </div>
+  
+                          </div>
+  
+                          
+                          <div class="footer-case">
+                              <div class="tag-case">  Energy electrical  </div>
+                              <h5> <a href="case-study-single.html">  Wind power generation in America</a> </h5>
+           
+                              
+                  
+                          </div>
+                          
+                          
+                      </div>
+                  </div>
+                  
+                  
+                  
+                  <!-- New Item -->
+                  <div class="case-item">
+                      <div class="owl-item"> 
+                          <div class="img-case">
+                              
+                              <!-- Image OF Case -->
+                              <img src="http://placehold.it/600x550" alt="case">
+                              
+                              
+                              <div class="overlay-case">
+                                  <div class="inner-overlay">
+                                      <!-- Text OF Case -->
+                                      <div class="case-study-text"> 
+      
+                                          
+                                          <div class="links-case">
+                                              <div class="link-case">
+                                                  <a href="case-study-single.html"><i class="fas fa-link"></i></a>
+                                              </div>
+                                              
+                                              <div class="zoom-case">
+                                              <a href="http://placehold.it/600x550"><i class="fas fa-search-plus"></i></a>
+                                              </div>
+                                          </div>
+                                          
+                                      </div> 
+                                  </div>
+                                  
+                              </div>
+  
+                          </div>
+   
+                          
+                          <div class="footer-case">
+                              <div class="tag-case">  electrical Energy </div>
+                              <h5> <a href="case-study-single.html">  innovative electrothermal energy storage system   </a> </h5>
+                              
+                     
+                          </div>
+                          
+                          
+                      </div>
+                  </div>
+                  
+                  
+                  
+                  
+                  
+                  
+              </div>
+          
+          </div>
+      
+  
+      
+  </section>
